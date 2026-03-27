@@ -1,0 +1,7 @@
+{
+  "name": "FARMIO - Direct Farmer-Vendor Marketplace",
+  "description": "An Instagram-inspired mobile-first platform enabling direct trade between farmers and vendors with AI-powered price suggestions, multilingual support, and real-time messaging.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
